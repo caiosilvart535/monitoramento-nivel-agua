@@ -63,7 +63,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 ## 📄 Documentação
 
 - [Fluxo completo Node-RED (.json)](fluxo-node-red.json)
-- [Artigo científico final (.pdf)](docs/artigo-final.pdf)
+- [Artigo científico final (.pdf)](docs/Projeto IOT OBJETOS INTELIGENTES CONECTADOS, etapa 4 (6).pdf)
 
 ---
 
