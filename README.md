@@ -53,7 +53,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 | **Média** | **0,80**   | **0,83**     |
 
 📊 Gráfico de desempenho:  
-![Gráfico](imagens/graficomedicoes.png)
+![Gráfico](imagens/grafico-medicoes.png)
 
 📄 [Clique aqui para abrir a Tabela de Medições em PDF](tabela-medicoes.pdf)
 
