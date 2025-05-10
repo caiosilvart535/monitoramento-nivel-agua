@@ -34,7 +34,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 ![Bomba OFF](imagens/bomba-off.png)
 
 ### 🚨 Bomba LIGADA
-![Bomba ON](imagens/bomba-on.png)
+![Bomba ON](imagens/bombaon.png)
 
 ### 🔄 Fluxo Node-RED
 ![Fluxo Node-RED](imagens/fluxo-node-red.png)
