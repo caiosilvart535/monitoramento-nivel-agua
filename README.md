@@ -37,7 +37,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 ![Bomba ON](imagens/bombaon.png)
 
 ### 🔄 Fluxo Node-RED
-![Fluxo Node-RED](imagens/fluxo-node-red.png)
+![Fluxo Node-RED](imagens/fluxonodered.png)
 
 ### ⚡ Diagrama Fritzing
 ![Fritzing](imagens/fritzing.png)
