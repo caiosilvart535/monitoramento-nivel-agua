@@ -40,7 +40,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 ![Fluxo Node-RED](imagens/fluxonodered.png)
 
 ### ⚡ Diagrama Fritzing
-![Fritzing](imagens/fritzing.png)
+![Fritzing](imagens/fritz.png)
 
 ## ⏱️ Resultados
 
