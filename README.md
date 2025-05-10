@@ -75,11 +75,10 @@ A comunicação entre o sensor e o atuador é feita via protocolo MQTT, com um b
 ## 🎥 Vídeo de Demonstração
 
 📺 Link para o vídeo do projeto no YouTube:  
-👉 
+👉 *(Inserir link assim que estiver pronto)*
 
 ---
 
 ## 📚 Licença
 Projeto acadêmico desenvolvido para a Universidade Presbiteriana Mackenzie, com finalidade educacional.
-
 
