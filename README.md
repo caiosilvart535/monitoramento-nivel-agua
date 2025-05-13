@@ -79,6 +79,4 @@ A comunicação entre o sensor e o atuador é feita via protocolo MQTT, com um b
 
 ---
 
-## 📚 Licença
-Projeto acadêmico desenvolvido para a Universidade Presbiteriana Mackenzie, com finalidade educacional.
 
