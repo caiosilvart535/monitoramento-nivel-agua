@@ -4,7 +4,7 @@ Sistema de IoT desenvolvido como trabalho final da disciplina de Objetos Intelig
 
 ## 👥 Autores
 - Caio da Silva Ribeiro – [@caiosilvart535](https://github.com/caiosilvart535)
-- Ana Laura da Silva Carlotto – [GitHub da colega]
+- Ana Laura da Silva Carlotto – [@lauracarlotto]
 
 ## 📌 Objetivo
 Propor uma solução para controle de nível de água em reservatórios, com base no **ODS 6 – Água Potável e Saneamento**, promovendo uso consciente da água e evitando desperdícios.
