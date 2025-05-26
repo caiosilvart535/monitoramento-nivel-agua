@@ -75,7 +75,7 @@ A comunicação entre o sensor e o atuador é feita via protocolo MQTT, com um b
 ## 🎥 Vídeo de Demonstração
 
 📺 Link para o vídeo do projeto no YouTube:  
-👉 *(Inserir link assim que estiver pronto)*
+👉 [*(Inserir link assim que estiver pronto)*](https://youtu.be/Kb2-mepckI0?si=T1MS4GYXttgn5Fk1)
 
 ---
 
