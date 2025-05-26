@@ -55,7 +55,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 📊 Gráfico de desempenho:  
 ![Gráfico](imagens/grafico-medicoes.png)
 
-📄 [Clique aqui para abrir a Tabela de Medições em PDF](tabela-medicoes.pdf)
+📄 [Clique aqui para abrir a Tabela de Medições em PDF](docs/tabela-medicoes.pdf)
 
 ---
 
@@ -63,6 +63,7 @@ Propor uma solução para controle de nível de água em reservatórios, com bas
 
 - [Fluxo completo Node-RED (.json)](fluxo-node-red.json)
 - [Artigo científico final (.pdf)](docs/Artigo-etapa-4-Final.pdf)
+- [Código nó function node-red (.pdf)](docs/cód-function-node-red.pdf)
 
 ---
 
